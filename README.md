@@ -8,8 +8,10 @@
 데이터 출처 [fish_maket](http://www.kaggle.com/aungpyaeap/fish-market)
 
 ---------------------------------
-### 2. Supervised learning & Unsupervised learning
+### 2. Supervised learning
+![Numpy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 #### Train set, Test set
+##### GOAL: 1. BreamAndSmelt의 데이터셋을 Train과 Test로 나누어 학습을 진행한다.
 
 ----------------------------------
 
