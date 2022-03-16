@@ -8,6 +8,8 @@
 데이터 출처 [fish_maket](http://www.kaggle.com/aungpyaeap/fish-market)
 
 ---------------------------------
+### 2. Supervised learning & Unsupervised learning
+#### Train set, Test set
 
-
+----------------------------------
 
