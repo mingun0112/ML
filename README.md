@@ -1,4 +1,4 @@
-# Sklearn, TensorFlow, Pytorch
+# Sklearn, Numpy, Pandas, Matplotlib
 ## ML, DL 학습 노트
 -------------------------------------------
 ### 1. K-Nearest Neighbor
