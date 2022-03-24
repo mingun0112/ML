@@ -39,4 +39,5 @@
 ###### Goal: Pandas를 이용해 더 많은 Feature들을 불러오고 다룰 수 있는 다중 회귀의 몇 가지 방법을 학습한다.
 
 --------------------------------
-### 3. 
+### 3. Logistic Regression
+##### Probability of KNN Classifier Prediction & Logistic Regression
