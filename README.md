@@ -42,3 +42,7 @@
 ### 3. Logistic Regression
 ##### Probability of KNN Classifier Prediction & Logistic Regression
 ###### Goal: Logistic Regression과 Softmax, Sigmoid 함수를 활용해 Multiple Classification을 수행한다.
+
+---------------------------------
+### 4. Gradient Descent
+#####
