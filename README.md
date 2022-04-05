@@ -1,5 +1,5 @@
 # Sklearn, Numpy, Pandas, Matplotlib
-## ML, DL 학습 노트
+## Machine Learning
 -------------------------------------------
 ### 1. K-Nearest Neighbor
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=blue)
